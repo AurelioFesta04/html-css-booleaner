@@ -1,0 +1,15 @@
+.body{
+    margin: 0px;
+}
+.title {
+    width: 200px;
+    text-align: center;
+
+}
+
+.polygon {
+    background-image: url(../img/pattern.png);
+    background-color: rgb(151, 157, 255);
+    height: 180px;
+}
+
